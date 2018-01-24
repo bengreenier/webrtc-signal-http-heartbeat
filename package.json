@@ -1,0 +1,27 @@
+{
+  "name": "webrtc-signal-http-heartbeat",
+  "version": "1.0.0",
+  "description": "webrtc-signal-http heartbeat timeout extension",
+  "main": "lib/index.js",
+  "bin": {
+    "webrtc-signal-http-heartbeat": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "keywords": [
+    "webrtc",
+    "signal"
+  ],
+  "author": "Ben Greenier",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.20.1",
+    "webrtc-signal-http": "^1.1.1"
+  },
+  "devDependencies": {
+    "mocha": "^5.0.0",
+    "supertest": "^3.0.0"
+  }
+}
