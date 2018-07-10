@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/bengreenier/webrtc-signal-http-heartbeat.svg?branch=master)](https://travis-ci.org/bengreenier/webrtc-signal-http-heartbeat)
 
-[![Deploy to Azure](https://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+[![Deploy to Azure](https://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/) [![Greenkeeper badge](https://badges.greenkeeper.io/bengreenier/webrtc-signal-http-heartbeat.svg)](https://greenkeeper.io/)
 
 [webrtc-signal-http](https://github.com/bengreenier/webrtc-signal-http) heartbeat timeout extension :heart: :timer_clock:
 
